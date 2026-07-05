@@ -1,5 +1,5 @@
 # Mock OpenFoodFacts Products
-# -----------------------------
+
 mock_products = [
     {
         "id": 1,
